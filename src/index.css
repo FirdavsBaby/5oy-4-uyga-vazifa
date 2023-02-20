@@ -1,0 +1,21 @@
+ul {
+    list-style: none;
+}
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+a {
+    text-decoration: none;
+    color: inherit;
+}
+.logo {
+    width: 5%;
+}
+.card {
+    width: 20rem;
+}
+#info {
+    background: linear-gradient(rgba(0, 0, 0, 0.507), rgba(0, 0, 0, 0.507)), url("https://navistom.com/uploads/blog/big/2022_02_01_02_29_36__426.jpg") fixed, no-repeat;
+    background-size: cover;
+}
